@@ -24,7 +24,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "apexcharts": "^3.8.6",
+        "apexcharts": "^3.24.0",
         "es6-promise": "^4.2.8",
         "mdbvue": "^5.8.2",
         "moment": "^2.24.0",
